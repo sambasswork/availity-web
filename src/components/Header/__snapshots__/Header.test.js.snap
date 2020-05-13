@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Header component if Header component renders correctly 1`] = `
+<div
+  className="sc-AxjAm bsDrnh"
+>
+  <nav
+    className="navbar navbar-expand navbar-light"
+  >
+    <a
+      className="navbar-brand"
+      href="#home"
+    >
+      <img
+        alt="logo"
+        className="d-inline-block align-top"
+        src="AvailityWhiteLogo.png"
+        width="140"
+      />
+    </a>
+  </nav>
+</div>
+`;

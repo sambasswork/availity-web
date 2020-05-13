@@ -1,0 +1,403 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Form component if Form component renders correctly 1`] = `
+<div
+  className="sc-AxjAm kDGDFc"
+>
+  <h3>
+    Healthcare Providers Request
+  </h3>
+  <form
+    className=""
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      className="form-row"
+    >
+      <div
+        className="form-group col-md-4"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationFirstName"
+        >
+          First Name
+        </label>
+        <div
+          className="input-group"
+        >
+          <input
+            className="form-control"
+            id="validationFirstName"
+            name="firstName"
+            onChange={[Function]}
+            placeholder="First Name"
+            type="string"
+          />
+          <div
+            className="invalid-feedback"
+          />
+        </div>
+      </div>
+      <div
+        className="form-group col-md-4"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationNipNumber"
+        >
+          Last Name
+        </label>
+        <div
+          className="input-group"
+        >
+          <input
+            className="form-control"
+            id="validationNipNumber"
+            name="lastName"
+            onChange={[Function]}
+            placeholder="Last Name"
+            type="string"
+            value=""
+          />
+          <div
+            className="invalid-feedback"
+          />
+        </div>
+      </div>
+      <div
+        className="form-group col-md-4"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationNipNumber"
+        >
+          NIP Number
+        </label>
+        <div
+          className="input-group"
+        >
+          <input
+            className="form-control"
+            id="validationNipNumber"
+            name="nipnumber"
+            onChange={[Function]}
+            placeholder="NIP Number"
+            type="number"
+          />
+          <div
+            className="invalid-feedback"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="form-row"
+    >
+      <div
+        className="form-group col-md-6"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationCity"
+        >
+          City
+        </label>
+        <input
+          className="form-control"
+          id="validationCity"
+          name="city"
+          onChange={[Function]}
+          placeholder="City"
+          type="text"
+        />
+        <div
+          className="invalid-feedback"
+        />
+      </div>
+      <div
+        className="form-group col-md-3"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationState"
+        >
+          State
+        </label>
+        <input
+          className="form-control"
+          id="validationState"
+          name="state"
+          onChange={[Function]}
+          placeholder="State"
+          type="text"
+        />
+        <div
+          className="invalid-feedback"
+        />
+      </div>
+      <div
+        className="form-group col-md-3"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationZipCode"
+        >
+          Zip
+        </label>
+        <input
+          className="form-control"
+          id="validationZipCode"
+          name="zip"
+          onChange={[Function]}
+          placeholder="Zip"
+          type="text"
+        />
+        <div
+          className="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div
+      className="form-row"
+    >
+      <div
+        className="form-group col-md-6"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationEmail"
+        >
+          Email
+        </label>
+        <input
+          className="form-control"
+          id="validationEmail"
+          name="email"
+          onChange={[Function]}
+          placeholder="Email"
+          type="text"
+        />
+        <div
+          className="invalid-feedback"
+        />
+      </div>
+    </div>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      style={
+        Object {
+          "background": "orange",
+          "border": "orange",
+        }
+      }
+      type="submit"
+    >
+      Submit form
+    </button>
+  </form>
+</div>
+`;
+
+exports[`testing Main Form component if Main Form component renders correctly 1`] = `
+<div
+  className="sc-AxjAm kDGDFc"
+>
+  <h3>
+    Healthcare Providers Request
+  </h3>
+  <form
+    className=""
+    noValidate={true}
+    onSubmit={[Function]}
+  >
+    <div
+      className="form-row"
+    >
+      <div
+        className="form-group col-md-4"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationFirstName"
+        >
+          First Name
+        </label>
+        <div
+          className="input-group"
+        >
+          <input
+            className="form-control"
+            id="validationFirstName"
+            name="firstName"
+            onChange={[Function]}
+            placeholder="First Name"
+            type="string"
+          />
+          <div
+            className="invalid-feedback"
+          />
+        </div>
+      </div>
+      <div
+        className="form-group col-md-4"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationNipNumber"
+        >
+          Last Name
+        </label>
+        <div
+          className="input-group"
+        >
+          <input
+            className="form-control"
+            id="validationNipNumber"
+            name="lastName"
+            onChange={[Function]}
+            placeholder="Last Name"
+            type="string"
+            value=""
+          />
+          <div
+            className="invalid-feedback"
+          />
+        </div>
+      </div>
+      <div
+        className="form-group col-md-4"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationNipNumber"
+        >
+          NIP Number
+        </label>
+        <div
+          className="input-group"
+        >
+          <input
+            className="form-control"
+            id="validationNipNumber"
+            name="nipnumber"
+            onChange={[Function]}
+            placeholder="NIP Number"
+            type="number"
+          />
+          <div
+            className="invalid-feedback"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="form-row"
+    >
+      <div
+        className="form-group col-md-6"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationCity"
+        >
+          City
+        </label>
+        <input
+          className="form-control"
+          id="validationCity"
+          name="city"
+          onChange={[Function]}
+          placeholder="City"
+          type="text"
+        />
+        <div
+          className="invalid-feedback"
+        />
+      </div>
+      <div
+        className="form-group col-md-3"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationState"
+        >
+          State
+        </label>
+        <input
+          className="form-control"
+          id="validationState"
+          name="state"
+          onChange={[Function]}
+          placeholder="State"
+          type="text"
+        />
+        <div
+          className="invalid-feedback"
+        />
+      </div>
+      <div
+        className="form-group col-md-3"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationZipCode"
+        >
+          Zip
+        </label>
+        <input
+          className="form-control"
+          id="validationZipCode"
+          name="zip"
+          onChange={[Function]}
+          placeholder="Zip"
+          type="text"
+        />
+        <div
+          className="invalid-feedback"
+        />
+      </div>
+    </div>
+    <div
+      className="form-row"
+    >
+      <div
+        className="form-group col-md-6"
+      >
+        <label
+          className="form-label"
+          htmlFor="validationEmail"
+        >
+          Email
+        </label>
+        <input
+          className="form-control"
+          id="validationEmail"
+          name="email"
+          onChange={[Function]}
+          placeholder="Email"
+          type="text"
+        />
+        <div
+          className="invalid-feedback"
+        />
+      </div>
+    </div>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      style={
+        Object {
+          "background": "orange",
+          "border": "orange",
+        }
+      }
+      type="submit"
+    >
+      Submit form
+    </button>
+  </form>
+</div>
+`;
